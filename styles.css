@@ -1,0 +1,45 @@
+body {
+    width: auto;
+    display: block;
+    padding: 5px;
+    background-color:rgb(238, 235, 223);
+}
+
+div {
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.names {
+    font-size: 30px;
+}
+
+.links {
+    border: 10px;
+    border-color: beige;
+    width: 100px;
+    border: 2px solid black;
+    padding: 2px;
+}
+
+.description {
+    padding: 10px;
+}
+
+.container {
+    padding: 30px;
+    margin: 20px;
+    text-align: center;
+}
+
+ul {
+    padding: 20px;
+    margin-left: 20px;
+    background-color: beige;
+}
+
+ol {
+    padding: 20px;
+    margin-left: 20px;
+    background-color: beige;
+}
